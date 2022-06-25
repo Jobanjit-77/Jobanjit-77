@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Jobanjit-77
-- 👀 I’m interested in Network Security & Cyber Security 
-- 🌱 I’m currently learning Azure Cloud Techology 
-- 💞️ I’m looking forward to collaborating you on my upcoming projects
-- 📫 How to reach out to me jobanjitsinghamritsar@gmail.com
+- 👋 Hi, Myself Jobanjit Singh  
+- 👀 I’m interested in Python & looking forward to working in SDLC Environment   
+- 🌱 I’m currently learning Cloud Services to collaborate on Data Sciience & Artifical Intellingence Projects.  
+- 💞️ Ask me about Community, Information Technology, Computer Engineering, Network Security, Cyber Security & Cloud Computing
+- 📫 How to reach out to me jobanjitsinghamritsar@gmail.com   
 - ✨ Core & special skills are Linux, Active Directory, CRM, Windows Migration, Exchange Migration, Outlook365, Network Security, Azure Cloud, MFA, SSO, IoT 
-<!---
-Jobanjit-77/Jobanjit-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ Software Engineering Tech Stacks- Python, Visual Studio 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: In my free time I try to do experiments with softwares and hardwares
